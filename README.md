@@ -9,7 +9,7 @@
   
 ## Requisitos
   - todas as requisitos devem responder os dados em JSON.
-  - o código deverá ser escrito numa das linguagens a seguir: Python, Ruby, NodeJS ou Elixir
+  - o código deverá ser escrito numa das linguagens a seguir: Python, Ruby, NodeJS (typescript), Deno ou Elixir
   - caso queira usar um framework, pode usar o que preferir.
   - usar um banco de dados relacional.
   - deve ser possível criar usuários e carteiras.
